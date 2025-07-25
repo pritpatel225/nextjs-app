@@ -106,7 +106,7 @@ export default function Contact() {
               type="submit"
               className="bg-primary text-white px-6 py-2 rounded-md hover:bg-opacity-90 transition"
             >
-              Submit Enquiry
+              Submit Enquiryn
             </button>
           </form>
         </motion.div>
